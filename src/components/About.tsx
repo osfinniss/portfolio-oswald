@@ -22,8 +22,11 @@ function About() {
 
         <p>
           J'aime comprendre le fonctionnement d'une application dans son
-          ensemble, résoudre des problèmes techniques et continuer à découvrir
-          de nouvelles technologies à travers mes projets personnels.
+          ensemble, résoudre des problèmes techniques et chercher constamment
+          à améliorer les solutions que je développe. Je m'intéresse
+          particulièrement à l'optimisation des performances, à la qualité du
+          code et à la fluidité des applications afin d'offrir une meilleure
+          expérience utilisateur.
         </p>
       </div>
     </section>
