@@ -16,7 +16,6 @@ const skills = [
     title: "Frontend",
     items: [
       "React",
-      "Angular",
       "JavaScript",
       "JSP",
       "HTML",
